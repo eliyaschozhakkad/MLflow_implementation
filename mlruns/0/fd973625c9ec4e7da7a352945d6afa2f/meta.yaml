@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/fd973625c9ec4e7da7a352945d6afa2f/artifacts
+end_time: 1690780603413
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fd973625c9ec4e7da7a352945d6afa2f
+run_name: unruly-bee-335
+run_uuid: fd973625c9ec4e7da7a352945d6afa2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780599998
+status: 3
+tags: []
+user_id: abc

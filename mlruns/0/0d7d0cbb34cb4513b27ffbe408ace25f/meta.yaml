@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/0d7d0cbb34cb4513b27ffbe408ace25f/artifacts
+end_time: 1690780673003
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d7d0cbb34cb4513b27ffbe408ace25f
+run_name: placid-mule-406
+run_uuid: 0d7d0cbb34cb4513b27ffbe408ace25f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780669803
+status: 3
+tags: []
+user_id: abc

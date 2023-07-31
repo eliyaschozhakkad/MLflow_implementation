@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/b45051d4e08841f5972292afcccd2baf/artifacts
+end_time: 1690780656789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b45051d4e08841f5972292afcccd2baf
+run_name: delightful-hog-505
+run_uuid: b45051d4e08841f5972292afcccd2baf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780653267
+status: 3
+tags: []
+user_id: abc

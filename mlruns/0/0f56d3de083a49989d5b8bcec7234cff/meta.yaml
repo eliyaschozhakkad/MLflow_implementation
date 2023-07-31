@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/0f56d3de083a49989d5b8bcec7234cff/artifacts
+end_time: 1690780684705
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0f56d3de083a49989d5b8bcec7234cff
+run_name: sedate-turtle-298
+run_uuid: 0f56d3de083a49989d5b8bcec7234cff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780680873
+status: 3
+tags: []
+user_id: abc

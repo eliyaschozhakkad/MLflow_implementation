@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/3176e6a3e1e04dffa1d536763bbc2342/artifacts
+end_time: 1690780614027
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3176e6a3e1e04dffa1d536763bbc2342
+run_name: magnificent-slug-614
+run_uuid: 3176e6a3e1e04dffa1d536763bbc2342
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780610764
+status: 3
+tags: []
+user_id: abc

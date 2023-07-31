@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/c8bb123985c644b68a4d2135c34f4878/artifacts
+end_time: 1690780651276
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c8bb123985c644b68a4d2135c34f4878
+run_name: powerful-crow-217
+run_uuid: c8bb123985c644b68a4d2135c34f4878
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780647786
+status: 3
+tags: []
+user_id: abc

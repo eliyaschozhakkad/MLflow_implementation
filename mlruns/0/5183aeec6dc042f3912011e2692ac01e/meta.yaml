@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/5183aeec6dc042f3912011e2692ac01e/artifacts
+end_time: 1690780724790
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5183aeec6dc042f3912011e2692ac01e
+run_name: welcoming-deer-589
+run_uuid: 5183aeec6dc042f3912011e2692ac01e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780720988
+status: 3
+tags: []
+user_id: abc

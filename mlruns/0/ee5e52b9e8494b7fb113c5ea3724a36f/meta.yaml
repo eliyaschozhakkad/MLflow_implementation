@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/ee5e52b9e8494b7fb113c5ea3724a36f/artifacts
+end_time: 1690780608772
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee5e52b9e8494b7fb113c5ea3724a36f
+run_name: caring-robin-528
+run_uuid: ee5e52b9e8494b7fb113c5ea3724a36f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780605447
+status: 3
+tags: []
+user_id: abc

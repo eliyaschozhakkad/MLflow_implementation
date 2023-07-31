@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/9bf8e420685b4e5e8f6c4f40eff6f2d7/artifacts
+end_time: 1690780629859
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9bf8e420685b4e5e8f6c4f40eff6f2d7
+run_name: thundering-jay-829
+run_uuid: 9bf8e420685b4e5e8f6c4f40eff6f2d7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780626577
+status: 3
+tags: []
+user_id: abc

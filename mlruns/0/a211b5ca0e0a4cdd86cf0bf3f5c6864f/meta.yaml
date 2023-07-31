@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/a211b5ca0e0a4cdd86cf0bf3f5c6864f/artifacts
+end_time: 1690780701528
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a211b5ca0e0a4cdd86cf0bf3f5c6864f
+run_name: learned-boar-572
+run_uuid: a211b5ca0e0a4cdd86cf0bf3f5c6864f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780698199
+status: 3
+tags: []
+user_id: abc

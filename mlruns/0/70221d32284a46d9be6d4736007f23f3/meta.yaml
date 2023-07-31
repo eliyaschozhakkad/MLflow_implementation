@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/70221d32284a46d9be6d4736007f23f3/artifacts
+end_time: 1690780619128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 70221d32284a46d9be6d4736007f23f3
+run_name: unequaled-lamb-36
+run_uuid: 70221d32284a46d9be6d4736007f23f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780616054
+status: 3
+tags: []
+user_id: abc

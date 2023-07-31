@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/f6a0bee5180d4544bc386d60b2072ce1/artifacts
+end_time: 1690780635150
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6a0bee5180d4544bc386d60b2072ce1
+run_name: incongruous-lamb-229
+run_uuid: f6a0bee5180d4544bc386d60b2072ce1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780631869
+status: 3
+tags: []
+user_id: abc

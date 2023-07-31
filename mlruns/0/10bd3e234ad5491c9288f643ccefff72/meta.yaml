@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/10bd3e234ad5491c9288f643ccefff72/artifacts
+end_time: 1690780624573
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 10bd3e234ad5491c9288f643ccefff72
+run_name: melodic-hen-788
+run_uuid: 10bd3e234ad5491c9288f643ccefff72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780621199
+status: 3
+tags: []
+user_id: abc

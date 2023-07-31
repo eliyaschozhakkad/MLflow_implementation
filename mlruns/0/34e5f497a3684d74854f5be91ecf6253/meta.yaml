@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/34e5f497a3684d74854f5be91ecf6253/artifacts
+end_time: 1690780690458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 34e5f497a3684d74854f5be91ecf6253
+run_name: suave-rat-950
+run_uuid: 34e5f497a3684d74854f5be91ecf6253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780686687
+status: 3
+tags: []
+user_id: abc

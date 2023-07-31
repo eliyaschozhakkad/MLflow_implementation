@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/49b6422e677d492db2055f7368b0c842/artifacts
+end_time: 1690780645758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49b6422e677d492db2055f7368b0c842
+run_name: luxuriant-rat-263
+run_uuid: 49b6422e677d492db2055f7368b0c842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780642572
+status: 3
+tags: []
+user_id: abc

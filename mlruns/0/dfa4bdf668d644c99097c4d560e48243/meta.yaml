@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/dfa4bdf668d644c99097c4d560e48243/artifacts
+end_time: 1690780707340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa4bdf668d644c99097c4d560e48243
+run_name: nervous-sloth-119
+run_uuid: dfa4bdf668d644c99097c4d560e48243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690780703473
+status: 3
+tags: []
+user_id: abc
