@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/4dbb96fe641f4fe2be3194550231d8c0/artifacts
+end_time: 1690779170374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dbb96fe641f4fe2be3194550231d8c0
+run_name: sassy-elk-430
+run_uuid: 4dbb96fe641f4fe2be3194550231d8c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690779169169
+status: 3
+tags: []
+user_id: abc

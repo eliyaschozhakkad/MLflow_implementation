@@ -1,0 +1,15 @@
+artifact_uri: file:///config/workspace/mlruns/0/14eec2d60c0949f0bf115bfaa5020edf/artifacts
+end_time: 1690779282649
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 14eec2d60c0949f0bf115bfaa5020edf
+run_name: youthful-skunk-61
+run_uuid: 14eec2d60c0949f0bf115bfaa5020edf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690779281571
+status: 3
+tags: []
+user_id: abc
